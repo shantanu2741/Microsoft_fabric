@@ -1,0 +1,21 @@
+First_Name,Last_Name,Customer_ID,Email,Address,IngestedOn
+Daniel,Johnson,CUST0001,daniel.johnson@mailinator.com,"583 Cedar Ave, Los Angeles, NY",6/26/2025 4:56
+Sophia,Williams,CUST0002,sophia.williams@mailinator.com,"581 Washington St, Chicago, AZ",7/14/2025 4:56
+John,Smith,CUST0003,john.smith@example.com,"421 Elm St, New York, AZ",8/21/2025 4:56
+Mia,Johnson,CUST0004,mia.johnson@mailinator.com,"961 High St, Los Angeles, TX",8/5/2025 4:56
+James,Jones,CUST0005,james.jones@testmail.com,"954 Oak St, Houston, AZ",8/11/2025 4:56
+Emily,Hernandez,CUST0006,emily.hernandez@testmail.com,"100 Washington St, Houston, TX",6/26/2025 4:56
+Jessica,Thomas,CUST0007,jessica.thomas@example.com,"351 High St, Chicago, IL",7/14/2025 4:56
+Ethan,Wilson,CUST0008,ethan.wilson@mailinator.com,"435 Washington St, Houston, NY",8/21/2025 4:56
+Ethan,Martinez,CUST0009,ethan.martinez@fakemail.com,"368 Oak St, Phoenix, TX",8/5/2025 4:56
+Olivia,Taylor,CUST0010,olivia.taylor@example.com,"701 Washington St, New York, IL",8/11/2025 4:56
+Ethan,Thomas,CUST0011,ethan.thomas@fakemail.com,"449 Elm St, Houston, CA",6/26/2025 4:56
+William,Davis,CUST0012,william.davis@fakemail.com,"371 High St, Los Angeles, AZ",7/14/2025 4:56
+David,Lopez,CUST0013,david.lopez@mailinator.com,"251 Main St, Chicago, NY",8/21/2025 4:56
+Ava,Rodriguez,CUST0014,ava.rodriguez@example.com,"312 Elm St, Chicago, CA",8/5/2025 4:56
+Laura,Williams,CUST0015,laura.williams@mailinator.com,"693 Main St, Phoenix, AZ",8/11/2025 4:56
+Sarah,Jackson,CUST0016,sarah.jackson@fakemail.com,"630 Maple Ave, New York, NY",6/26/2025 4:56
+Mia,Martin,CUST0017,mia.martin@mailinator.com,"511 Washington St, Los Angeles, CA",7/14/2025 4:56
+David,Smith,CUST0018,david.smith@example.com,"195 Washington St, Los Angeles, NY",8/21/2025 4:56
+Daniel,Martinez,CUST0019,daniel.martinez@fakemail.com,"953 Pine St, Los Angeles, AZ",8/5/2025 4:56
+David,Moore,CUST0020,david.moore@mailinator.com,"507 Maple Ave, Houston, AZ",8/11/2025 4:56
